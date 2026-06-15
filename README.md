@@ -1,6 +1,25 @@
-# Japanese Color Atlas - Free Samples
+<div align="center">
 
-Free traditional Japanese color samples and workflow resources from **Japanese Color Atlas**, a Chroma Cathay project.
+<img src=".github/banner.png" alt="Japanese Color Atlas" width="100%" />
+
+# Japanese Color Atlas · 日本の伝統色
+
+**Free traditional Japanese color tokens — CSS, Tailwind, and design tokens.**
+
+A source-aware color reference for designers and developers working with Japanese-inspired visual systems.
+
+[![Website](https://img.shields.io/badge/Website-japanesecoloratlas.com-1A1A1A?style=flat-square)](https://japanesecoloratlas.com)
+[![Free samples](https://img.shields.io/badge/Free%20samples-Download-2E7D5B?style=flat-square)](https://japanesecoloratlas.com/resources/free)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Chroma Cathay](https://img.shields.io/badge/Studio-Chroma%20Cathay-9E2916?style=flat-square)](https://chromacathay.com)
+
+[**Website**](https://japanesecoloratlas.com) · [**Free samples**](https://japanesecoloratlas.com/resources/free) · [**Methodology**](https://japanesecoloratlas.com/methodology) · [**Chroma Cathay**](https://chromacathay.com)
+
+</div>
+
+---
+
+Free traditional Japanese color samples and workflow resources from **Japanese Color Atlas**, a [Chroma Cathay](https://chromacathay.com) project.
 
 Use this repository when you want to test traditional Japanese colors in real design and development workflows before using the complete atlas. It includes sample CSS variables, Tailwind colors, and design tokens.
 
