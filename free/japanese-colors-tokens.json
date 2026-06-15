@@ -1,0 +1,20 @@
+{
+  "$name": "Japanese Color Atlas — Free Sample",
+  "$source": "japanesecoloratlas.com/resources/free",
+  "$notice": "HEX values are digital approximations. See japanesecoloratlas.com/methodology for source-status tiers.",
+  "$count": 12,
+  "colors": [
+    { "slug": "sakura-iro",    "kanji": "桜色",   "kana": "さくらいろ",   "romaji": "Sakura-iro",    "english": "Cherry blossom pink", "hex": "#F1C6C1", "family": "pink",   "sourceStatus": "attributed" },
+    { "slug": "nadeshiko-iro", "kanji": "撫子色", "kana": "なでしこいろ", "romaji": "Nadeshiko-iro", "english": "Dianthus pink",       "hex": "#E8B8C5", "family": "pink",   "sourceStatus": "attributed" },
+    { "slug": "beni",          "kanji": "紅",     "kana": "べに",         "romaji": "Beni",          "english": "Crimson",             "hex": "#B33A3A", "family": "red",    "sourceStatus": "source-backed" },
+    { "slug": "shu-iro",       "kanji": "朱色",   "kana": "しゅいろ",     "romaji": "Shu-iro",       "english": "Vermilion",           "hex": "#C8434A", "family": "red",    "sourceStatus": "source-backed" },
+    { "slug": "yamabuki-iro",  "kanji": "山吹色", "kana": "やまぶきいろ", "romaji": "Yamabuki-iro",  "english": "Golden yellow",       "hex": "#D8A431", "family": "yellow", "sourceStatus": "attributed" },
+    { "slug": "kihada-iro",    "kanji": "黄檗色", "kana": "きはだいろ",   "romaji": "Kihada-iro",    "english": "Amur cork yellow",    "hex": "#EBC676", "family": "yellow", "sourceStatus": "source-backed" },
+    { "slug": "matcha-iro",    "kanji": "抹茶色", "kana": "まっちゃいろ", "romaji": "Matcha-iro",    "english": "Matcha green",        "hex": "#7A8B55", "family": "green",  "sourceStatus": "attributed" },
+    { "slug": "moegi-iro",     "kanji": "萌黄色", "kana": "もえぎいろ",   "romaji": "Moegi-iro",     "english": "Fresh shoot green",   "hex": "#9AAE7A", "family": "green",  "sourceStatus": "source-backed" },
+    { "slug": "ai-iro",        "kanji": "藍色",   "kana": "あいいろ",     "romaji": "Ai-iro",        "english": "Indigo",              "hex": "#264653", "family": "blue",   "sourceStatus": "source-backed" },
+    { "slug": "asagi-iro",     "kanji": "浅葱色", "kana": "あさぎいろ",   "romaji": "Asagi-iro",     "english": "Pale blue-green",     "hex": "#5F9EA0", "family": "blue",   "sourceStatus": "source-backed" },
+    { "slug": "murasaki",      "kanji": "紫",     "kana": "むらさき",     "romaji": "Murasaki",      "english": "Purple",              "hex": "#6B4C7A", "family": "purple", "sourceStatus": "source-backed" },
+    { "slug": "sumi-iro",      "kanji": "墨色",   "kana": "すみいろ",     "romaji": "Sumi-iro",      "english": "Ink black",           "hex": "#1B1B1B", "family": "black",  "sourceStatus": "source-backed" }
+  ]
+}

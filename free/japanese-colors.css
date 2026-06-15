@@ -1,0 +1,19 @@
+/* Japanese Color Atlas — Free Sample (12 colors)
+ * japanesecoloratlas.com/resources/free
+ * Source-aware traditional Japanese color names. HEX values are digital approximations.
+ * Full pack: japanesecoloratlas.com/resources/design-exports
+ */
+:root {
+  --jp-sakura-iro:   #F1C6C1; /* 桜色 cherry blossom pink */
+  --jp-nadeshiko-iro: #E8B8C5; /* 撫子色 dianthus pink */
+  --jp-beni:         #B33A3A; /* 紅 safflower crimson */
+  --jp-shu-iro:      #C8434A; /* 朱色 vermilion */
+  --jp-yamabuki-iro: #D8A431; /* 山吹色 kerria golden yellow */
+  --jp-kihada-iro:   #EBC676; /* 黄檗色 amur cork yellow */
+  --jp-matcha-iro:   #7A8B55; /* 抹茶色 matcha green */
+  --jp-moegi-iro:    #9AAE7A; /* 萌黄色 spring shoot green */
+  --jp-ai-iro:       #264653; /* 藍色 indigo */
+  --jp-asagi-iro:    #5F9EA0; /* 浅葱色 pale blue-green */
+  --jp-murasaki:     #6B4C7A; /* 紫 gromwell purple */
+  --jp-sumi-iro:     #1B1B1B; /* 墨色 ink black */
+}
