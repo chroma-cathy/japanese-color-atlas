@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/banner.png" alt="Japanese Color Atlas" width="100%" />
+<img src=".github/banner.jpg" alt="Japanese Color Atlas" width="100%" />
 
 # Japanese Color Atlas · 日本の伝統色
 
